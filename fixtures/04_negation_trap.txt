@@ -1,0 +1,18 @@
+Bilal Ahmed
+Marketing Analyst
+Fictional test candidate - no real contact information
+
+SUMMARY
+Analyst who frequently works with engineering teams but has not built AI systems.
+
+SKILLS
+Excel, Power BI, campaign analytics, no-code automation.
+
+EXPERIENCE
+Marketing Analyst | Eastfield Retail | 2022 - Present
+- Prepared reports for a team using Python and FastAPI services developed by other engineers; did not write Python or FastAPI code.
+- Attended planning meetings about RAG, LangChain, LangGraph, Docker, vector databases, LLMs, AI agents and cloud deployment, without implementing these technologies.
+- Documented user requirements for a REST API but was not responsible for API development.
+
+EDUCATION
+BS Business Analytics | Sample University

@@ -1,0 +1,25 @@
+Omar Farooq
+Backend Python Developer
+Fictional test candidate - no real contact information
+
+SUMMARY
+Backend engineer with four years delivering web APIs and data processing systems; limited direct LLM deployment.
+
+SKILLS
+Python, FastAPI, REST APIs, PostgreSQL, Docker, AWS, Celery, pytest, Git.
+
+EXPERIENCE
+Python Engineer | Riverton Commerce | Mar 2022 - Present
+- Built FastAPI microservices for order processing with 99.9% availability measured over a six-month window.
+- Implemented authentication, background queues, monitoring alerts, and CI pipelines.
+- Deployed Docker containers to AWS ECS and wrote API integration tests.
+Software Developer | Oakline | Jun 2020 - Feb 2022
+- Maintained Python data sync jobs and SQL reporting services.
+
+PROJECTS
+Basic FAQ Search Prototype | 2025
+Objective: Explore internal help search.
+- Built a keyword search prototype; did not use RAG, LangGraph or a vector database.
+
+EDUCATION
+BS Software Engineering | Sample Institute

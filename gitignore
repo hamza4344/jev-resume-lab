@@ -1,0 +1,49 @@
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.pyright/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+
+# Build and package artifacts
+build/
+dist/
+*.egg-info/
+*.whl
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs, temporary data and local uploads
+*.log
+logs/
+*.tmp
+*.bak
+uploads/
+tmp/
+temp/
+
+# Local databases
+*.db
+*.sqlite
+*.sqlite3
